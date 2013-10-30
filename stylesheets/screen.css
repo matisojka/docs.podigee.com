@@ -1,0 +1,21 @@
+.navbar-brand {
+  padding: 5px 0;
+}
+
+.podigee-logo {
+  height: 40px;
+}
+
+.page-header,
+.page-header h1 {
+  margin-top: 0;
+}
+
+footer .podigee-logo {
+  float: left;
+  margin-right: 10px;
+}
+
+footer .made-in-berlin-badge {
+  height: 50px;
+}
