@@ -4,4 +4,4 @@ layout: en
 permalink: themes/
 ---
 
-This documentation is work in progress.
+{% include work-in-progress.html %}
