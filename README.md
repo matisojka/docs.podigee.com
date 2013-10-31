@@ -11,7 +11,7 @@ Once you're done with your changes send a pull request. Thanks!
 
 ### Non-technical
 
-Contact us at [hello@podigee.com](mailto:hello@podigee.com "hello@podigee.com") if you'd like to help but are not a technical person (which is totally fine btw :). We'll help you get started!
+Contact us at [hello@podigee.com](mailto:hello@podigee.com "hello@podigee.com") if you'd like to help but are not a technical person. We'll help you get started!
 
 ### Technical
 
