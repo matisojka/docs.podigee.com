@@ -9,6 +9,12 @@ Once you're done with your changes send a pull request. Thanks!
 
 ## How to edit the site
 
+### Non-technical
+
+Contact us at [hello@podigee.com](mailto:hello@podigee.com "hello@podigee.com") if you'd like to help but are not a technical person (which is totally fine btw :). We'll help you get started!
+
+### Technical
+
 Make sure you have Ruby and RubyGems installed. Next install
 [bundler](http://bundler.io/):
 
