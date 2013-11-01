@@ -31,6 +31,19 @@ dd {
   margin-top: 0;
 }
 
+.thumbnail img {
+  margin-top: 5px;
+}
+
+.thumbnail .caption h3 {
+  margin-top: 0;
+}
+
+.thumbnail .btn-block {
+  padding-left: 10px;
+  text-align: left;
+}
+
 footer .podigee-logo {
   float: left;
   margin-right: 10px;
