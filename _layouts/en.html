@@ -46,6 +46,11 @@
               </div>
             </div>
           </div>
+
+          {% if page.wip == true %}
+            {% include work-in-progress.html %}
+          {% endif %}
+
           <div class="row">
             <div class="col-lg-12">
               {{content}}

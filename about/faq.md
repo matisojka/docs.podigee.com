@@ -2,9 +2,8 @@
 title: FAQ
 layout: en
 permalink: faq/
+wip: true
 ---
-
-{% include work-in-progress.html %}
 
 <dl>
 

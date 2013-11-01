@@ -2,6 +2,6 @@
 title: Themes
 layout: en
 permalink: themes/
+wip: true
 ---
 
-{% include work-in-progress.html %}

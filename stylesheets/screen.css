@@ -7,6 +7,9 @@ video {
   /*border-color: #86B1DF;*/
   /*color: #fff;*/
 /*}*/
+.alert-sm {
+  padding: 10px;
+}
 
 .navbar-brand {
   padding: 5px 0;

@@ -2,9 +2,8 @@
 title: Podcasts
 layout: en
 permalink: podcasts/
+wip: true
 ---
-
-{% include work-in-progress.html %}
 
 ## Video - Create a new podcast
 

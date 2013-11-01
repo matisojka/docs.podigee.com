@@ -2,9 +2,8 @@
 title: Terms of Service
 layout: en
 permalink: tos/
+wip: true
 ---
-
-{% include work-in-progress.html %}
 
 ## The gist:
 
