@@ -1,7 +1,7 @@
 ---
 title: Guides
 layout: en
-permalink: guides/
+permalink: /
 ---
 
 ## List of available guides

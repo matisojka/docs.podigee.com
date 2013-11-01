@@ -1,10 +1,9 @@
 ---
 title: About
 layout: en
-permalink: about/
+permalink: /
 ---
 
 ## Welcome to Podigee
 
 Podigee is a **Podcast Publishing Platform**
-
