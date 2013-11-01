@@ -1,12 +1,19 @@
+a {
+  color: #3498db;
+}
+
+a:hover {
+  color: #0059b3;
+}
+
 video {
   width: 100%;
 }
 
-/*.well-podigee-info {*/
-  /*background-color: #86B1DF;*/
-  /*border-color: #86B1DF;*/
-  /*color: #fff;*/
-/*}*/
+dd {
+  margin-bottom: 20px;
+}
+
 .alert-sm {
   padding: 10px;
 }
