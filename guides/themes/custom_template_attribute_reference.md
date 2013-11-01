@@ -1,8 +1,11 @@
-# Custom template documentation
+---
+title: Custom template documentation
+layout: en
+permalink: custom_template_attribute_reference/
+wip: true
+---
 
-## Single column
-
-### layout.html
+## layout.html
 
 #### Available attributes:
 
@@ -21,7 +24,7 @@ Page content
 
     page_content
 
-### index.html
+## index.html
 
 List of episodes
 
@@ -35,7 +38,7 @@ Episode attributes
     episode.description
     episode.show_notes
 
-### show.html
+## show.html
 
 Episode attributes
 
@@ -71,7 +74,7 @@ Comment attributes
     comment.created_at
     comment.image
 
-### sidebar.html
+## sidebar.html
 
 Podcast attributes
 
