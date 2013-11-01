@@ -8,10 +8,12 @@ var docs = [
 //
 // init lunr
 var index = lunr(function () {
-  this.field('title', {boost: 10});
-  this.field('content');
+  this.ref('id')
+  this.field('title', {boost: 10})
+  this.field('content')
 })
-index.pipeline.remove(lunr.stopWordFilter)
+lunr.stopWordFilter.stopWords.length = 1
+lunr.stopWordFilter.stopWords.elements = [""]
 
 // add each document to be index
 for(var idx in docs) {
