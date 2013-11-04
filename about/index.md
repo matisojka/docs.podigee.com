@@ -1,15 +1,13 @@
 ---
-title: About
+title: Welcome to Podigee
 layout: en
 permalink: /
 published: true
 ---
 
-## Welcome to Podigee
-
 <p class="lead">The Podcast Publishing Platform</p>
 
-It enables you to publish your podcast episodes easily by combining a streamlined interface made for podcast publishing with modern web-technology that requires no manual work to provide multiple audio formats in different qualities to your listeners and also make your episodes accessible via high-speed download servers.
+We enable you to publish your podcast episodes easily by combining a streamlined interface made for podcast publishing with modern web-technology that requires no manual work to provide multiple audio formats in different qualities to your listeners and also make your episodes accessible via high-speed download servers.
 
 ## Our Motivation
 
