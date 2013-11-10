@@ -2,6 +2,7 @@
 layout: en
 permalink: changelog/
 published: true
+title: Changelog
 ---
 
 ## 2013-11-10
