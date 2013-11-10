@@ -1,7 +1,8 @@
 ---
 layout: en
-permalink: faq/
+permalink: changelog/
 wip: true
+published: true
 ---
 
 ## 2013-11-10
