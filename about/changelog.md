@@ -1,3 +1,9 @@
+---
+layout: en
+permalink: faq/
+wip: true
+---
+
 ## 2013-11-10
 
 ### New file upload
