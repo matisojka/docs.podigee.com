@@ -1,7 +1,6 @@
 ---
 layout: en
 permalink: changelog/
-wip: true
 published: true
 ---
 
