@@ -1,4 +1,6 @@
 ---
+title: Imprint
+layout: en
 permalink: imprint/
 wip: false
 ---
