@@ -9,8 +9,8 @@ wip: false
 
 ### Site owner
 
-Benjamin Zimmer
-Am Walde 2
+Benjamin Zimmer<br>
+Am Walde 2<br>
 56249 Herschbach
 
 ### UID §27 UStG
