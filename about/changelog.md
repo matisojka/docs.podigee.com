@@ -5,6 +5,18 @@ published: true
 title: Changelog
 ---
 
+## 2013-11-17
+
+### Going responsive
+
+We improved usability on small screen devices like phones and tablets a lot. You should now be able to do most of the tasks you can do on your desktop on the road.
+
+## 2013-11-14
+
+### Dropbox is back
+
+We have re-enabled audio clip upload via Dropbox.
+
 ## 2013-11-10
 
 ### New file upload
