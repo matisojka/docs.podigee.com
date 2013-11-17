@@ -3,6 +3,7 @@ title: Custom template documentation
 layout: en
 permalink: custom_template_attribute_reference/
 wip: true
+published: true
 ---
 
 ## layout.html
@@ -87,3 +88,8 @@ Feed attributes
     podcast.feeds.aac
     podcast.feeds.vorbis
     podcast.feeds.opus
+    
+Connection attributes
+
+	podcast.connections.twitter
+    podcast.connections.appdotnet
