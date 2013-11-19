@@ -31,6 +31,10 @@ dd {
   margin-top: 0;
 }
 
+#main-content img {
+  max-width: 100%;
+}
+
 .thumbnail img {
   margin-top: 5px;
 }

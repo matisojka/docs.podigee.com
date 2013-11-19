@@ -1,7 +1,7 @@
 ---
-title: Podcasts
+title: New Podcast
 layout: en
-permalink: podcasts/
+permalink: new-podcast/
 wip: true
 ---
 
