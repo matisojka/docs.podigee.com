@@ -4,9 +4,25 @@ permalink: changelog/
 published: true
 title: Changelog
 sitemap:
-  lastmod: 2013-11-17
+  lastmod: 2013-11-24
   priority: 1.0
 ---
+
+## 2013-11-24
+
+### A new theme
+
+A new theme has been added! Just go to your Blog settings and choose 'One column' as your theme to use it.
+
+![Podigee One Column Theme](/images/changelog/one_column_theme_screenshot.jpg)
+
+### Pagination for blogs
+
+The overview pages of the blogs are now paginated. For now there will be 10 episodes on each page. If there is demand for it we will make this number configurable in the future.
+
+### About page for blogs
+
+Blogs now have an about page. You can find an example here: <http://podigee-de.podigee.io/about>
 
 ## 2013-11-17
 
