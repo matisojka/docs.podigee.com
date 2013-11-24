@@ -21,7 +21,8 @@ Blog attributes
 
     blog.header_image
     blog.links.home
-    blog.links.archive (not yet)
+    blog.links.archive
+    blog.links.about
 
 Page content
 
@@ -40,6 +41,11 @@ Episode attributes
     episode.subtitle
     episode.description
     episode.show_notes
+    
+Pagination
+
+	pagination.next_page
+	pagination.previous_page
 
 ## show.html
 
@@ -95,3 +101,4 @@ Connection attributes
 
 	podcast.connections.twitter
     podcast.connections.appdotnet
+    podcast.connections.flattr_id
