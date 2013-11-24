@@ -3,6 +3,8 @@ title: New Podcast
 layout: en
 permalink: new-podcast/
 wip: true
+sitemap:
+  lastmod: 2013-11-17
 ---
 
 ## Video - Create a new podcast

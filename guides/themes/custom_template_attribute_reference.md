@@ -4,6 +4,8 @@ layout: en
 permalink: custom_template_attribute_reference/
 wip: true
 published: true
+sitemap:
+  lastmod: 2013-11-01
 ---
 
 ## layout.html

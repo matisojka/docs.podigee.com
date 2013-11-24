@@ -2,6 +2,8 @@
 title: Imprint
 layout: en
 permalink: imprint/
+sitemap:
+  lastmod: 2013-11-12
 wip: false
 ---
 

@@ -3,6 +3,8 @@ title: Themes
 layout: en
 permalink: themes/
 wip: true
+sitemap:
+  lastmod: 2013-11-17
 ---
 
 <div class="list-group">

@@ -2,6 +2,9 @@
 title: Guides
 layout: en
 permalink: /
+sitemap:
+  lastmod: 2013-11-17
+  priority: 1.0
 ---
 
 ## List of available guides

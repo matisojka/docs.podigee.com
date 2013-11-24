@@ -3,6 +3,9 @@ title: Welcome to Podigee
 layout: en
 permalink: /
 published: true
+sitemap:
+  lastmod: 2013-11-17
+  priority: 1.0
 ---
 
 <p class="lead">The Podcast Publishing Platform</p>

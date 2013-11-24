@@ -3,6 +3,9 @@ layout: en
 permalink: changelog/
 published: true
 title: Changelog
+sitemap:
+  lastmod: 2013-11-17
+  priority: 1.0
 ---
 
 ## 2013-11-17

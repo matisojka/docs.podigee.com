@@ -3,6 +3,8 @@ title: Domains
 layout: en
 permalink: domains/
 wip: false
+sitemap:
+  lastmod: 2013-11-17
 ---
 
 <p class="lead">
