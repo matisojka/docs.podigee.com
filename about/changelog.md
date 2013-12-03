@@ -8,6 +8,14 @@ sitemap:
   priority: 1.0
 ---
 
+## 2013-12-03
+
+### Cover images for audio files
+
+We now add the Pocast cover image as cover for audio files. Additionally it will be displayed in the web-player. The possibility to override the cover image per episode will follow soon.
+
+![Cover image](/images/changelog/cover-images.png)
+
 ## 2013-11-24
 
 ### A new theme
