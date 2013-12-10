@@ -4,7 +4,7 @@ layout: en
 permalink: domains/
 wip: false
 sitemap:
-  lastmod: 2013-11-17
+  lastmod: 2013-12-10
 ---
 
 <p class="lead">
@@ -21,15 +21,11 @@ The part between _http://_ and  _.podigee.io_ can be configured by you in the po
 
 To do this go to <a href="https://www.podigee.com/podcasts" target="_blank">https://www.podigee.com/podcasts</a> and click on the name of the podcast you want to edit.
 
-Then go to the Blog-Tab and click **Edit**.
+Then go to the Blog-Tab and select all the text in the **Name (subdomain)** field and enter your desired subdomain name. Just click outside of the field to save the setting.
 
 ![image](/images/guides/podcast-domain-1.jpg)
 
-Next, select all the text in the **Name (subdomain)** field and enter your desired subdomain name.
-
-![image](/images/guides/podcast-domain-2.jpg)
-
- This can be any combination of letters, numbers and dashes. Any other kind of special characters will not be allowed. So ```my-awesome-podcast``` is OK while ```my.awesome.podcast``` is **not** because it contains dots. When you're finished, click **Save** and enjoy your new (sub)domain.
+This can be any combination of letters, numbers and dashes. Any other kind of special characters will not be allowed. So ```my-awesome-podcast``` is OK while ```my.awesome.podcast``` is **not** because it contains dots. When you're finished, click **Save** and enjoy your new (sub)domain.
 
 ## Use an own domain
 
@@ -51,13 +47,9 @@ Find specific instructions for each domain configuration below.
 
 To get started go to <a href="https://www.podigee.com/podcasts" target="_blank">https://www.podigee.com/podcasts</a> and click on the name of the podcast you want to edit.
 
-Then go to the Blog-Tab and click **Edit**.
+Then go to the Blog-Tab and enter your domain name into the **Domain** field. Just click outside of the field to save the setting.
 
-![image](/images/guides/podcast-domain-1.jpg)
-
-Next, enter your domain name into the **Domain** field.
-
-![image](/images/guides/podcast-domain-3.jpg)
+![image](/images/guides/podcast-domain-2.jpg)
 
 ### Adding a subdomain of your domain
 
