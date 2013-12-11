@@ -4,9 +4,21 @@ permalink: changelog/
 published: true
 title: Changelog
 sitemap:
-  lastmod: 2013-11-24
+  lastmod: 2013-12-11
   priority: 1.0
 ---
+
+## 2013-12-11
+
+### Big update for the user interface
+
+Today we pushed out our biggest update yet.
+
+With this update we introduce a more straight forward user interface for creating and
+editing podcasts and episodes. The **Edit** button is gone and fields can edited
+directly now. Additionally we added auto-saving for even less unnecessary clicking.
+
+![New editing interface](/images/changelog/new-edit-interface.jpg)
 
 ## 2013-12-03
 
